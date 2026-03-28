@@ -108,11 +108,11 @@ export const skills: Record<string, string[]> = {
 export const projects = [
   {
     id: 1,
-    title: "Code Editor App",
+    title: "DevArena",
     description:
       "Multi-language code editor with real-time execution, syntax highlighting, and OpenAI-powered evaluation. Upload your own PDF to generate custom coding tests.",
-    tech: ["React.js", "Node.js", "TypeScript"],
-    liveUrl: "", // Add after deploying to Vercel
+    tech: ["Vue.js", "Node.js", "OpenAI"],
+    liveUrl: "https://practise-coding.onrender.com/",
     codeUrl: "",
     featured: true,
     category: "Full Stack",
@@ -123,7 +123,7 @@ export const projects = [
     description:
       "Calculate ingredient costs and profit margins for recipes. Designed for restaurant owners and home cooks to manage and optimise food costs effectively.",
     tech: ["React.js", "JavaScript", "CSS"],
-    liveUrl: "", // Add after deploying to Vercel
+    liveUrl: "https://foodcosting.vercel.app/",
     codeUrl: "",
     featured: true,
     category: "Web App",
