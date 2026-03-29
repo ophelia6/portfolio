@@ -22,7 +22,7 @@ export const experience = [
   {
     company: "HowNow",
     role: "Software Engineer",
-    period: "Sept 2025 – Present",
+    period: "Sept 2024 – Present",
     location: "Mumbai, India",
     bullets: [
       "Migrating platform from Rails to React with shared components and robust state management",
@@ -35,7 +35,7 @@ export const experience = [
   {
     company: "Fynd",
     role: "Software Development Engineer 1",
-    period: "Nov 2022 – Sept 2025",
+    period: "Nov 2022 – Sept 2024",
     location: "Mumbai, India",
     bullets: [
       "Developed and led finance module frontend with 30+ reusable Vue.js components",
