@@ -196,23 +196,6 @@ export default function Hero() {
         </motion.div>
       </motion.div>
 
-      {/* Scroll cue */}
-      <motion.div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 1.4 }}
-      >
-        <span className="text-slate-600 text-xs font-mono tracking-widest uppercase">
-          scroll
-        </span>
-        <motion.div
-          className="w-px h-10 bg-gradient-to-b from-slate-600 to-transparent"
-          animate={{ scaleY: [1, 0.4, 1] }}
-          transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
-          style={{ transformOrigin: "top" }}
-        />
-      </motion.div>
     </section>
   );
 }

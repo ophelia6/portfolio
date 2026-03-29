@@ -6,7 +6,7 @@ export const personal = {
   email: "opheliagt6@gmail.com",
   phone: "+91 7507 829370",
   linkedin: "https://www.linkedin.com/in/ophelia-trelawney/",
-  github: "", // Add GitHub URL after uploading the portfolio repo
+  github: "https://github.com/ophelia6/",
   summary:
     "Frontend Developer with over 6 years of experience crafting high-performance web interfaces. I specialise in React.js and Vue.js, with a strong foundation in TypeScript and modern JavaScript patterns. I've worked across product companies — from ad-tech at Media.net to e-commerce at Fynd to EdTech at HowNow — delivering everything from POS systems for Reliance retail to government dashboards serving half a million users.",
 };
